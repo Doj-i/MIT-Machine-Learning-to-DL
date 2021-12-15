@@ -1,4 +1,4 @@
-# MITx-Machine-Learning-Course
+# MITx-Machine-Learning-to-DL-Course
 
 Machine learning methods are commonly used across engineering and sciences, from computer systems to physics. 
 Moreover, commercial sites such as search engines, recommender systems (e.g., Netflix, Amazon), advertisers, and financial institutions employ machine learning algorithms for content recommendation, predicting customer behavior, compliance, or risk.
